@@ -12,7 +12,6 @@ public class Main {
             System.out.println("Invalid Value");
             return;
         }
-
         System.out.println(" ");
         System.out.println("This pattern was created using the number " + number);
         for (int i = 1; i <= number; i++) {
@@ -32,5 +31,4 @@ public class Main {
             System.out.println();
         }
     }
-
 }
